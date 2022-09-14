@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo docker push monty/exc:flask-montyexchangemicroservice
+sudo docker push kaytho/monty:montyexchangemicroservice

@@ -2,7 +2,7 @@ version: "3.7"
 services:
 
   montyexchangemicroservice:
-    image: monty/exc:flask-montyexchangemicroservice
+    image: kaytho/monty:montyexchangemicroservice
     container_name: montyexchangemicroservice
     ports:
       - 9047:9047
